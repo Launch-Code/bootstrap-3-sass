@@ -61,7 +61,7 @@ module Bootstrap3
     end
 
     private
-# ROSANNA check back
+
     def register_compass_extension
       ::Compass::Frameworks.register(
           'bootstrap-3',
