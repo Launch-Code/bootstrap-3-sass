@@ -1,3 +1,5 @@
+Forked version of `bootstrap-sass` gem inspired by https://blog.201-created.com/using-and-migrating-to-bootstrap-4-on-rails-21aea99b4ba
+
 # Bootstrap 3 for Sass
 [![Gem Version](https://badge.fury.io/rb/bootstrap-sass.svg)](http://badge.fury.io/rb/bootstrap-sass)
 [![npm version](https://img.shields.io/npm/v/bootstrap-sass.svg?style=flat)](https://www.npmjs.com/package/bootstrap-sass)
